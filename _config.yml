@@ -1,0 +1,5 @@
+name: Recipes
+markdown: kramdown
+input: GFM
+syntax_highlighter: rouge
+baseurl: /recipes
