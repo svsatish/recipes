@@ -1,4 +1,4 @@
-Lavanya's Kitchen
+Satish's Kitchen
 =================
 
 [View site, hosted on Github Pages](http://svsatish.github.io/recipes/)
