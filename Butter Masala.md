@@ -6,9 +6,6 @@ image: https://cloud.githubusercontent.com/assets/13004816/15655701/55bdf68e-266
 ---
 
 
-Makes about 15 small cookies.
-
-
 ## Ingredients
 
 
