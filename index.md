@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Lavanya's Kitchen
+title: Satish's Kitchen
 home: true
 ---
